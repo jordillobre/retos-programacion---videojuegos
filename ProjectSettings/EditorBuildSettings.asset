@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Seleccionador.unity
+    guid: 73b79e3408cf43749ac68d931b2bcf2c
+  - enabled: 1
+    path: Assets/Scenes/Piedra.unity
+    guid: d833a26053a3bfc45bd7ffcf025b64a8
+  - enabled: 1
+    path: Assets/Scenes/AdivinaPalabra.unity
+    guid: 4339c20f46a8846449aea5c927d4df62
+  - enabled: 1
+    path: Assets/Scenes/Memoria.unity
+    guid: 9c306bc9fc87fa643bd9a815f2752a5c
+  - enabled: 1
+    path: Assets/Scenes/Batalla.unity
+    guid: 12a65f44f390c3f449f9edeea7d7b72a
+  - enabled: 1
+    path: Assets/Scenes/Olimpiadas.unity
+    guid: 7a083cca296cea5459817ee1b87168de
   m_configObjects: {}
