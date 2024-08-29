@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Olimpiadas.unity
     guid: 7a083cca296cea5459817ee1b87168de
+  - enabled: 1
+    path: Assets/Scenes/carrera.unity
+    guid: 72d876a38ea291247bc22884261d1bae
   m_configObjects: {}
